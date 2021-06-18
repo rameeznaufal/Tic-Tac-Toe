@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe/static/css/main.54a5e9ce.chunk.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.e7d2fa23.chunk.js",
+    "main.js.map": "/Tic-Tac-Toe/static/js/main.e7d2fa23.chunk.js.map",
+    "runtime-main.js": "/Tic-Tac-Toe/static/js/runtime-main.a74bc3ef.js",
+    "runtime-main.js.map": "/Tic-Tac-Toe/static/js/runtime-main.a74bc3ef.js.map",
+    "static/js/2.6059c277.chunk.js": "/Tic-Tac-Toe/static/js/2.6059c277.chunk.js",
+    "static/js/2.6059c277.chunk.js.map": "/Tic-Tac-Toe/static/js/2.6059c277.chunk.js.map",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "static/css/main.54a5e9ce.chunk.css.map": "/Tic-Tac-Toe/static/css/main.54a5e9ce.chunk.css.map",
+    "static/js/2.6059c277.chunk.js.LICENSE.txt": "/Tic-Tac-Toe/static/js/2.6059c277.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Tic-Tac-Toe/static/media/VarelaRound-Regular.411276fd.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a74bc3ef.js",
+    "static/js/2.6059c277.chunk.js",
+    "static/css/main.54a5e9ce.chunk.css",
+    "static/js/main.e7d2fa23.chunk.js"
+  ]
+}
